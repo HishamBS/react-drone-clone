@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.jumbo{
+  background-image: url('https://files.slack.com/files-tmb/TA2AHQDQ8-FQ29FM5RU-d7c8110293/hero-1_720.jpg');
+  height: 550px;
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+.formo{
+  margin:200px auto;
+  width: 750px;
+  background: rgba(117, 67, 234, 0.561);
+  color: white;
+}
+.cardo{
+  margin:-150px auto;
+  margin-left : 30px;
+  height: 150px;
+  width:80px;
+  border-radius: 30px;
+  color: white;
+
+
+}
+span{
+  color:#7443EA;
+  font-weight: 900;
+  font-size:56px;
+
+}
+.jumba{
+  text-align: center;
+}
+
